@@ -1,0 +1,8 @@
+D:\bridge labs\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.exe.config
+D:\bridge labs\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.exe
+D:\bridge labs\AddressBookSystem\AddressBookSystem\bin\Debug\AddressBookSystem.pdb
+D:\bridge labs\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.AssemblyReference.cache
+D:\bridge labs\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.SuggestedBindingRedirects.cache
+D:\bridge labs\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.CoreCompileInputs.cache
+D:\bridge labs\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.exe
+D:\bridge labs\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.pdb
